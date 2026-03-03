@@ -1,0 +1,7 @@
+{"time":"2026-03-03T11:29:17.710407588Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp2a0a32ea/port-22958.txt","pid":22958,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-03-03T11:29:17.710720106Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":22958}
+{"time":"2026-03-03T11:29:17.710719054Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-22958-23016-1070268329/socket","Net":"unix"}}
+{"time":"2026-03-03T11:29:17.903294075Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2026-03-03T11:29:17.906745952Z","level":"INFO","msg":"handleInformInit: received","streamId":"tc6jkxuk","id":"1(@)"}
+{"time":"2026-03-03T11:29:18.172968817Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"tc6jkxuk","id":"1(@)"}
+{"time":"2026-03-03T11:32:01.318660484Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"tc6jkxuk","id":"1(@)"}
